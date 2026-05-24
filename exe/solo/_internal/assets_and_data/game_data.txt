@@ -1,0 +1,9 @@
+highest_level:0
+asteroid_destroyed:0
+bosses_killed:0
+up_key:1073741906
+left_key:1073741904
+right_key:1073741903
+down_key:1073741905
+shoot_key:32
+pause_key:27
